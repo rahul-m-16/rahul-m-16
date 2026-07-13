@@ -17,8 +17,6 @@
 
 </div>
 
----
-
 <h2>👨‍💻 About Me</h2>
 
 <table width="100%">
@@ -26,25 +24,33 @@
 
 <td width="50%" valign="top">
 
-<b>🎓 Education</b><br>
+### 🎓 Education
 Recent MCA Graduate
 
-<br><br>
+</td>
 
-<b>💻 Role</b><br>
+<td width="50%" valign="top">
+
+### 💼 Status
+🟢 Open to Work
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 💻 Role
 Full Stack Developer (MERN)
 
 </td>
 
 <td width="50%" valign="top">
 
-<b>📊 Specialization</b><br>
+### 📊 Specialization
 Data Analytics
-
-<br><br>
-
-<b>💼 Status</b><br>
-🟢 Open to Work
 
 </td>
 
@@ -53,10 +59,9 @@ Data Analytics
 
 <p align="center">
 
-Building scalable web applications using the <b>MERN Stack</b> and creating data-driven solutions with <b>Python, SQL, and Power BI</b>.
+Building scalable web applications using the **MERN Stack** and creating data-driven solutions with **Python**, **SQL**, and **Power BI**.
 
 </p>
----
 
 # 🚀 Featured Projects
 
@@ -127,45 +132,28 @@ React • Node.js • Express.js • MongoDB • JWT • RBAC
 
 # 🛠️ Tech Stack
 
-<table width="100%">
-<tr>
+## 🛠 Tech Stack
 
-<td width="50%" valign="top">
+### Languages
 
-### 💻 Languages
+![Skills](https://skillicons.dev/icons?i=js,python)
 
-![Skills](https://skillicons.dev/icons?i=js,python,sql&theme=dark)
+### Frontend
 
-<br>
+![Skills](https://skillicons.dev/icons?i=react,html,css,tailwind)
 
-### 🎨 Frontend
+### Backend
 
-![Skills](https://skillicons.dev/icons?i=react,html,css&theme=dark)
+![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)
 
-</td>
+### Data Analytics
 
-<td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-### ⚙️ Backend
+### Tools
 
-![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark)
-
-<br>
-
-### 📊 Data / AI
-
-![Skills](https://skillicons.dev/icons?i=python&theme=dark)
-
-<br>
-
-### 🛠️ Tools
-
-![Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)
-
-</td>
-
-</tr>
-</table>
+![Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)
 
 ---
 
